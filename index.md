@@ -58,46 +58,47 @@ A lo largo de los trabajos del curso, se pudo ganar experiencia en el uso de div
 *   **Progreso de Aprendizaje:** 
 >   En este módulo, el objetivo principal fue aprender los **fundamentos de HTML5 y CSS3** para construir interfaces de usuario visualmente atractivas y funcionales, así como conceptos avanzados como **diseño responsivo**. El trabajo en la web del hospital (Front-End-M2-EP3) demuestra la aplicación de estos fundamentos, incluyendo la **estructuración del contenido con HTML**, el **estilado con CSS** (organizado bajo la metodología 7-1 y BEM), el uso de un framework CSS como **Bootstrap** y la implementación de la **adaptabilidad a diferentes dispositivos**, una competencia clave del desarrollador Front-end.
 *   **Enlaces:**
-    *   Front-End-M2-EP1 (Enlace: https://github.com/mespinozacl/Front-End-M2-EP1)
-    *   Front-End-M2-EP2 (Enlace: https://github.com/mespinozacl/Front-End-M2-EP2)
-    *   Front-End-M2-EP3 (Enlace: https://github.com/mespinozacl/Front-End-M2-EP3)
-    *   Front-End-M2-EP4 (Enlace: https://github.com/mespinozacl/Front-End-M2-EP4)
+    *   [Front-End-M2-EP1](https://github.com/mespinozacl/Front-End-M2-EP1)
+    *   [Front-End-M2-EP2](https://github.com/mespinozacl/Front-End-M2-EP2)
+    *   [Front-End-M2-EP3](https://github.com/mespinozacl/Front-End-M2-EP3)
+    *   [Front-End-M2-EP4](https://github.com/mespinozacl/Front-End-M2-EP4)
 
 **Módulo 3: Programación avanzada en JavaScript**
 *   **Progreso de Aprendizaje:** 
 >   Este módulo profundizó en **JavaScript**, abarcando **estructuras de datos**, **algoritmos** y el paradigma de **programación funcional**. El trabajo con objetos JSON (Front-End-M3-AE3) evidencia el aprendizaje en el **manejo de datos en JavaScript**, incluyendo la **estructuración con JSON** y el **acceso eficiente a la información mediante destructuring**, habilidades fundamentales para la manipulación de datos en aplicaciones web.
 *   **Enlaces:**
     *   Front-End-M3-AE1 “Front-End-M3-AE1”
-    *   Front-End-M3-AE2 (Enlace: https://github.com/mespinozacl/Front-End-M3-AE2)
-    *   Front-End-M3-AE3 (Enlace: https://github.com/mespinozacl/Front-End-M3-AE3)
-    *   Front-End-M3-AE4 (Enlace: https://github.com/mespinozacl/Front-End-M3-AE4)
-    *   Front-End-M3-AE5 (Enlace: https://github.com/Natavica/m03--e5--abpro)
+    *   [Front-End-M3-AE2](https://github.com/mespinozacl/Front-End-M3-AE2)
+    *   [Front-End-M3-AE3](https://github.com/mespinozacl/Front-End-M3-AE3)
+    *   [Front-End-M3-AE4](https://github.com/mespinozacl/Front-End-M3-AE4)
+    *   [Front-End-M3-AE5](https://github.com/Natavica/m03--e5--abpro)
 
 **Módulo 4: Desarrollo de interfaces interactivas con React**
 *   **Progreso de Aprendizaje:** 
 >   El foco de este módulo fue la especialización en **React**, aprendiendo a construir **aplicaciones interactivas** y a **gestionar el estado** (`useState`) de las aplicaciones de manera eficiente. El uso de ReactJS y `react-router-dom` (Front-End-M4-EP3) demuestra la capacidad para **crear componentes reutilizables** y **navegar entre diferentes vistas** en una aplicación React, sentando las bases para la construcción de interfaces dinámicas.
 *   **Enlaces:**
     *   Front-End-M4-AE1 “Front-End-M4-AE1 - Discusión y Análisis de Casos.pdf”
-    *   Front-End-M4-EP1 (Enlace: https://github.com/mespinozacl/Front-End-M4-EP1)
-    *   Front-End-M4-EP2 (Enlace: https://github.com/mespinozacl/Front-End-M4-EP2)
-    *   Front-End-M4-EP3 (Enlace: https://github.com/mespinozacl/Front-End-M4-EP3)
+    *   [Front-End-M4-EP1](https://github.com/mespinozacl/Front-End-M4-EP1)
+    *   [Front-End-M4-EP2](https://github.com/mespinozacl/Front-End-M4-EP2)
+    *   [Front-End-M4-EP3](https://github.com/mespinozacl/Front-End-M4-EP3)
 
 **Módulo 5: Desarrollo de aplicaciones Front-End con React**
 *   **Progreso de Aprendizaje:** 
 >   Este módulo se centró en técnicas avanzadas de React, incluyendo el **consumo de APIs**, **seguridad** y **testing**. El trabajo en Front-End-M5-EP1 muestra la habilidad para **conectar el frontend con datos del backend** utilizando Fetch API, una habilidad crucial para construir aplicaciones web completas. También destacan las ventajas del uso de **Typescript**, el uso de **Hooks** en ReactJS y la interacción con una **API REST**
-    *   Front-End-M5-EP0 (Enlace: https://github.com/mespinozacl/Front-End-M5-EP0)
-    *   Front-End-M5-EP1 (Enlace: https://github.com/mespinozacl/Front-End-M5-EP1)
-    *   Front-End-M5-EP2 (Enlace: https://github.com/mespinozacl/Front-End-M5-EP2)
-    *   Front-End-M5-EP3 (Enlace: https://github.com/mespinozacl/Front-End-M5-EP3)
-    *   Front-End-M5-EP4 (Enlace: https://github.com/mespinozacl/Front-End-M5-EP4)
+*   **Progreso de Aprendizaje:**
+    *   [Front-End-M5-EP0](https://github.com/mespinozacl/Front-End-M5-EP0)
+    *   [Front-End-M5-EP1](https://github.com/mespinozacl/Front-End-M5-EP1)
+    *   [Front-End-M5-EP2](https://github.com/mespinozacl/Front-End-M5-EP2)
+    *   [Front-End-M5-EP3](https://github.com/mespinozacl/Front-End-M5-EP3)
+    *   [Front-End-M5-EP4](https://github.com/mespinozacl/Front-End-M5-EP4)
 
 **Módulo 6: Desarrollo de aplicaciones Web Progresivas (PWA)**
 *   **Progreso de Aprendizaje:**
 >   En este módulo, se aprendió a crear **aplicaciones web que funcionan offline** y ofrecen una experiencia de usuario similar a las aplicaciones nativas (**PWA**).
 *   **Enlaces:**
-    *   Front-End-M6-EP1 (Enlace: https://github.com/mespinozacl/Front-End-M6-EP1)
-    *   Front-End-M6-EP2 (Enlace: https://github.com/mespinozacl/Front-End-M6-EP2)
-    *   Front-End-M6-EP3 (Enlace: https://github.com/mespinozacl/Front-End-M6-EP3)
+    *   [Front-End-M6-EP1](https://github.com/mespinozacl/Front-End-M6-EP1)
+    *   [Front-End-M6-EP2](https://github.com/mespinozacl/Front-End-M6-EP2)
+    *   [Front-End-M6-EP3](https://github.com/mespinozacl/Front-End-M6-EP3)
 
 **Módulo 7: Fundamentos de desarrollo Agile**
 *   **Progreso de Aprendizaje:**
@@ -112,13 +113,13 @@ A lo largo de los trabajos del curso, se pudo ganar experiencia en el uso de div
 >   Este módulo se enfocó en la **automatización del proceso de desarrollo y despliegue** utilizando herramientas de **CI/CD** y **Docker**, así como la **gestión de versiones con Git**. Los trabajos realizados (Front-End-M8-EP1 y EP2) evidencian la capacidad para **configurar entornos de desarrollo automatizados**, **implementar flujos de trabajo de colaboración eficientes con Git** y **automatizar procesos de integración y despliegue** utilizando Docker y GitHub Actions.
 *   **Enlaces:**
     *   Front-End-M8-EP1 “Front-End-M8-EP1” - 
-    *   Front-End-M8-EP2 (Enlace: https://github.com/mespinozacl/Front-End-M8-EP2)
+    *   [Front-End-M8-EP2](https://github.com/mespinozacl/Front-End-M8-EP2)
 
 **Módulo 9: Desarrollo de portafolio de un producto digital**
 *   **Progreso de Aprendizaje:**
 >   El objetivo principal de este módulo es la **creación de un portafolio de productos digitales** que refleje las **habilidades y competencias adquiridas** a lo largo del curso. Los trabajos anteriores de cada módulo, documentados y presentados de manera organizada en GitHub, junto con una **presentación atractiva** y una **documentación clara**, constituirán el portafolio final. Se espera que el proyecto final esté bien integrado, alojado en un servicio como GitHub Pages y que se incluya el **feedback recibido** y las **mejoras implementadas**.
 *   **Enlaces:**
-    *   Front-End-M9-EP1 (Enlace: https://mespinozacl.github.io/Front-End-M9-EP1/)
+    *   [Front-End-M9-EP1](https://mespinozacl.github.io/Front-End-M9-EP1/)
 
 
 * * *

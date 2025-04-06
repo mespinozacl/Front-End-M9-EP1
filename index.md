@@ -5,22 +5,22 @@ layout: default
 # Experiencia con Diferentes Tecnologías
 A lo largo de los trabajos del curso, se pudo ganar experiencia en el uso de diversas tecnologías, las cuales se pueden agrupar en las siguientes categorías:
 
-**Lenguajes de Programación:**
-*   **JavaScript:** Este es un lenguaje fundamental en el desarrollo front-end y se utiliza extensamente a lo largo del curso. Se exploran tanto sus fundamentos como sus características avanzadas.
-*   **TypeScript:** Se introdujo como un superconjunto de JavaScript con tipado estático para mejorar la seguridad y mantenibilidad del código, _se privilegió el uso de este lenguaje por sobre javascript_.
+## Lenguajes de Programación:
+> **JavaScript:** Este es un lenguaje fundamental en el desarrollo front-end y se utiliza extensamente a lo largo del curso. Se exploran tanto sus fundamentos como sus características avanzadas.
+> **TypeScript:** Se introdujo como un superconjunto de JavaScript con tipado estático para mejorar la seguridad y mantenibilidad del código, _se privilegió el uso de este lenguaje por sobre javascript_.
 
-**Frameworks y Librerías de Front-End:**
-*   **React:** Se dedicó un módulo completo al desarrollo de interfaces interactivas con React, incluyendo el uso de Hooks y la gestión de errores. También se abordó el desarrollo de aplicaciones Front-End con React, incluyendo el consumo de APIs, seguridad y testing.
-*   **HTML5 y CSS3:** Son los fundamentos para la creación de la interfaz de usuario web.
-*   **Vite:** Herramienta empleada para el desarrollo front-end.
-*   **Bootstrap:** Herramienta empleada para el desarrollo front-end.
-*   **React Router DOM:** Se utilizó para la gestión de la navegación en aplicaciones React.
+## Frameworks y Librerías de Front-End:
+>   **React:** Se dedicó un módulo completo al desarrollo de interfaces interactivas con React, incluyendo el uso de Hooks y la gestión de errores. También se abordó el desarrollo de aplicaciones Front-End con React, incluyendo el consumo de APIs, seguridad y testing.
+>   **HTML5 y CSS3:** Son los fundamentos para la creación de la interfaz de usuario web.
+>   **Vite:** Herramienta empleada para el desarrollo front-end.
+>   **Bootstrap:** Herramienta empleada para el desarrollo front-end.
+>   **React Router DOM:** Se utilizó para la gestión de la navegación en aplicaciones React.
 
 **APIs y Comunicación con el Servidor:**
-*   **Fetch API:** Se utilizó para la gestión del consumo de datos de APIs.
-*   **Axios:** Alternativa a Fetch API para la gestión del consumo de datos de APIs.
-*   _Se emplearon ambas tecnologías_
-*   Se trabajó con el concepto de **API REST**.
+>**Fetch API:** Se utilizó para la gestión del consumo de datos de APIs.
+>**Axios:** Alternativa a Fetch API para la gestión del consumo de datos de APIs.
+>_Se emplearon ambas tecnologías_
+>Se trabajó con el concepto de **API REST**.
 
 **Autenticación y Seguridad:**
 *   **JWT (JSON Web Tokens):** en el contexto de seguridad en el front-end.

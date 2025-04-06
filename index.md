@@ -216,7 +216,7 @@ end
 
 ### Small image
 
-[![Github](https://github.com/)](https://github.com/mespinozacl/)
+[![Github](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)](https://github.com/mespinozacl/)
 
 ### Large image
 

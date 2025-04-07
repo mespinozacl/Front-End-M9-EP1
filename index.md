@@ -19,7 +19,7 @@ A lo largo de los trabajos del curso, se pudo ganar experiencia en el uso de div
 
 ## 1. Orientación al perfil y metodología del curso
 Se estableció un punto de inicio y una ruta a partir del análisis de **la industria de TI**, el **perfil profesional del desarrollador Front-end** y las **competencias técnicas y habilidades personales valoradas**.
-### Documentos: [_Front-End-M1-EP1-Documento-Análisis_](./Front-End-M1-EP1).
+### Documentos: [_Front-End-M1-EP1-Análisis_](./docs/Front-End-M1-EP1.pdf).
 
 ## 2. Desarrollo de la interfaz de usuario Web
 Se comprendieron los fundamentos de `HTML5` y `CSS3` para construir interfaces de usuario visualmente atractivas y funcionales, así como conceptos avanzados como `diseño responsivo`, aplicando esto en la estructuración del contenido con `HTML`, el estilado con `CSS` (organizado bajo la `metodología 7-1` y `BEM`), el uso de un framework CSS como `Bootstrap` y la implementación de la **adaptabilidad a diferentes dispositivos**, competencias clave del desarrollador Front-end.
@@ -27,12 +27,12 @@ Se comprendieron los fundamentos de `HTML5` y `CSS3` para construir interfaces d
 
 ## 3. Programación avanzada en JavaScript
 Se profundizó en `JavaScript`, abarcando **estructuras de datos**, **algoritmos** y el paradigma de **programación funcional**, aplicando esto en la estructuración con `JSON` y el acceso eficiente a la información mediante `destructuring`, habilidades fundamentales para la manipulación de datos en aplicaciones web.
-### Documentos: [_Front-End-M3-AE1-Documento-Análisis_](./Front-End-M3-AE1.pdf)
+### Documentos: [_Front-End-M3-AE1-Análisis_](./Front-End-M3-AE1.pdf)
 ### Códigos Fuente: [**Front-End-M3-AE2**](https://github.com/mespinozacl/Front-End-M3-AE2) / [**Front-End-M3-AE3**](https://github.com/mespinozacl/Front-End-M3-AE3) / [**Front-End-M3-AE4**](https://github.com/mespinozacl/Front-End-M3-AE4) / [**Front-End-M3-AE5**](https://github.com/Natavica/m03--e5--abpro)
 
 ## 4. Desarrollo de interfaces interactivas con React
 Progreso de Aprendizaje: A través del uso de `React` se logró construir **aplicaciones interactivas** y **gestionar el estado** (`useState`) en las aplicaciones de manera eficiente. El uso de `ReactJS` y `react-router-dom` permitieron **crear componentes reutilizables** y **navegar entre diferentes vistas**, sentando las bases para la construcción de nuevas interfaces dinámicas.
-### Documentos: [_Front-End-M4-AE1-Documento-Análisis_](./Front-End-M4-AE1.pdf)
+### Documentos: [_Front-End-M4-AE1-Análisis_](./Front-End-M4-AE1.pdf)
 ### Códigos Fuente: [Front-End-M4-EP1](https://github.com/mespinozacl/Front-End-M4-EP1) / [Front-End-M4-EP2](https://github.com/mespinozacl/Front-End-M4-EP2) / [Front-End-M4-EP3](https://github.com/mespinozacl/Front-End-M4-EP3)
 
 ## 5. Desarrollo de aplicaciones Front-End con React
@@ -44,16 +44,16 @@ Se logró crear **una aplicación web que funciona offline**, ofreciendo una exp
 ### Códigos Fuente: [Front-End-M6-EP1](https://github.com/mespinozacl/Front-End-M6-EP1) / [Front-End-M6-EP2](https://github.com/mespinozacl/Front-End-M6-EP2) / [Front-End-M6-EP3](https://github.com/mespinozacl/Front-End-M6-EP3)
 
 ## 7. Fundamentos de desarrollo Agile
-Progreso de Aprendizaje: Se introdujo el uso de **metodologías ágiles** para gestionar proyectos de desarrollo de manera eficiente. Las actividades realizadas permitieron demuestrar la comprensión y aplicación de conceptos como `Historias de Usuario` (modelos `INVEST` y `SMART`), **estimación ágil**, **priorización** (técnica `Moscow`), **planificación de `Sprints`**, **trabajo en equipo** y **revisión del `Sprint`**, elementos esenciales en el desarrollo ágil de software.
+Se introdujo el uso de **metodologías ágiles** para gestionar proyectos de desarrollo de manera eficiente. Las actividades realizadas permitieron demuestrar la comprensión y aplicación de conceptos como `Historias de Usuario` (modelos `INVEST` y `SMART`), **estimación ágil**, **priorización** (técnica `Moscow`), **planificación de `Sprints`**, **trabajo en equipo** y **revisión del `Sprint`**, elementos esenciales en el desarrollo ágil de software.
 ### Documentos: [Front-End-M7-T1](./Front-End-M7-T1.pdf) / [Front-End-M7-T2](./Front-End-M7-T2.pdf) / [Front-End-M7-T3](Front-End-M7-T3.pdf)
 
 ## 8. Fundamentos de integración continua
-* Progreso de Aprendizaje: Se introdujo la **automatización del proceso de desarrollo y despliegue** utilizando herramientas de **CI/CD** y **Docker**, así como la **gestión de versiones con Git**. Las actividades realizadas permitieron **configurar entornos de desarrollo automatizados**, **implementar flujos de trabajo de colaboración eficientes con Git** y **automatizar procesos de integración y despliegue** utilizando Docker y GitHub Actions.
+Se introdujo la **automatización del proceso de desarrollo y despliegue** utilizando herramientas de **CI/CD** y **Docker**, así como la **gestión de versiones con Git**. Las actividades realizadas permitieron **configurar entornos de desarrollo automatizados**, **implementar flujos de trabajo de colaboración eficientes con Git** y **automatizar procesos de integración y despliegue** utilizando Docker y GitHub Actions.
 ### Documentos: [Front-End-M8-EP1](./Front-End-M8-EP1.pdf)
 ### Códigos Fuente: [Front-End-M8-EP2](https://github.com/mespinozacl/Front-End-M8-EP2)
 
 ## 9. Desarrollo de portafolio de un producto digital
-* Progreso de Aprendizaje: Finalmente se abordó la **creación de un portafolio de productos digitales**. Se construyo el presente Portafolio a partir del las actividades desarrolladas en cada módulo, previamente documentadas y ahora presentadas de manera organizada en GitHub, y se subio a Github aplicando un tema de Jekyll para GitHub Pages. 
+Finalmente se abordó la **creación de un portafolio de productos digitales**. Se construyo el presente Portafolio a partir del las actividades desarrolladas en cada módulo, previamente documentadas y ahora presentadas de manera organizada en GitHub, y se subio a Github aplicando un tema de Jekyll para GitHub Pages. 
 ### Códigos Fuente: [Front-End-M9-EP1](https://mespinozacl.github.io/Front-End-M9-EP1/)
 
 * * *

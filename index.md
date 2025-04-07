@@ -17,39 +17,39 @@ A lo largo de los trabajos del curso, se pudo ganar experiencia en el uso de div
 
 # Progresión del Aprendizaje a lo Largo Proyecto
 
-1. Orientación al perfil y metodología del curso
-* Progreso de Aprendizaje: Se estableció un punto de inicio y una ruta a partir del análisis de **la industria de TI**, el **perfil profesional del desarrollador Front-end** y las **competencias técnicas y habilidades personales valoradas**.
-* Enlaces: Front-End-M1-EP1 “Front-End-M1-EP1 - Discusión y análisis - La Industria TI y el Perfil”.
+## 1. Orientación al perfil y metodología del curso
+> Se estableció un punto de inicio y una ruta a partir del análisis de **la industria de TI**, el **perfil profesional del desarrollador Front-end** y las **competencias técnicas y habilidades personales valoradas**.
+> Front-End-M1-EP1 “Front-End-M1-EP1 - Discusión y análisis - La Industria TI y el Perfil”.
 
-2. Desarrollo de la interfaz de usuario Web
-* Progreso de Aprendizaje: Se comprendieron los fundamentos de `HTML5` y `CSS3` para construir interfaces de usuario visualmente atractivas y funcionales, así como conceptos avanzados como `diseño responsivo`, aplicando esto en la estructuración del contenido con `HTML`, el estilado con `CSS` (organizado bajo la `metodología 7-1` y `BEM`), el uso de un framework CSS como `Bootstrap` y la implementación de la **adaptabilidad a diferentes dispositivos**, competencias clave del desarrollador Front-end.
-* Enlaces: [Front-End-M2-EP1](https://github.com/mespinozacl/Front-End-M2-EP1) [Front-End-M2-EP2](https://github.com/mespinozacl/Front-End-M2-EP2) [Front-End-M2-EP3](https://github.com/mespinozacl/Front-End-M2-EP3) [Front-End-M2-EP4](https://github.com/mespinozacl/Front-End-M2-EP4)
+## 2. Desarrollo de la interfaz de usuario Web
+> Se comprendieron los fundamentos de `HTML5` y `CSS3` para construir interfaces de usuario visualmente atractivas y funcionales, así como conceptos avanzados como `diseño responsivo`, aplicando esto en la estructuración del contenido con `HTML`, el estilado con `CSS` (organizado bajo la `metodología 7-1` y `BEM`), el uso de un framework CSS como `Bootstrap` y la implementación de la **adaptabilidad a diferentes dispositivos**, competencias clave del desarrollador Front-end.
+> [Front-End-M2-EP1](https://github.com/mespinozacl/Front-End-M2-EP1) [Front-End-M2-EP2](https://github.com/mespinozacl/Front-End-M2-EP2) [Front-End-M2-EP3](https://github.com/mespinozacl/Front-End-M2-EP3) [Front-End-M2-EP4](https://github.com/mespinozacl/Front-End-M2-EP4)
 
-3. Programación avanzada en JavaScript
+## 3. Programación avanzada en JavaScript
 * Progreso de Aprendizaje: Se profundizó en `JavaScript`, abarcando **estructuras de datos**, **algoritmos** y el paradigma de **programación funcional**, aplicando esto en la estructuración con `JSON` y el acceso eficiente a la información mediante `destructuring`, habilidades fundamentales para la manipulación de datos en aplicaciones web.
 * Enlaces: Front-End-M3-AE1 “Front-End-M3-AE1” [Front-End-M3-AE2](https://github.com/mespinozacl/Front-End-M3-AE2) [Front-End-M3-AE3](https://github.com/mespinozacl/Front-End-M3-AE3) [Front-End-M3-AE4](https://github.com/mespinozacl/Front-End-M3-AE4) [Front-End-M3-AE5](https://github.com/Natavica/m03--e5--abpro)
 
-4. Desarrollo de interfaces interactivas con React
+## 4. Desarrollo de interfaces interactivas con React
 * Progreso de Aprendizaje: A través del uso de `React` se logró construir **aplicaciones interactivas** y **gestionar el estado** (`useState`) en las aplicaciones de manera eficiente. El uso de `ReactJS` y `react-router-dom` permitieron **crear componentes reutilizables** y **navegar entre diferentes vistas**, sentando las bases para la construcción de nuevas interfaces dinámicas.
 * Enlaces: Front-End-M4-AE1 “Front-End-M4-AE1 - Discusión y Análisis de Casos.pdf” [Front-End-M4-EP1](https://github.com/mespinozacl/Front-End-M4-EP1) [Front-End-M4-EP2](https://github.com/mespinozacl/Front-End-M4-EP2) [Front-End-M4-EP3](https://github.com/mespinozacl/Front-End-M4-EP3)
 
-5. Desarrollo de aplicaciones Front-End con React
+## 5. Desarrollo de aplicaciones Front-End con React
 * Progreso de Aprendizaje: Se profundizó en técnicas avanzadas usando React, incluyendo el **consumo de APIs**, **seguridad** y **testing**. Se aplicó esto para **conectar el frontend con datos del backend** utilizando Fetch API, una habilidad crucial para construir aplicaciones web completas. También destacan las ventajas del uso de **Typescript**, el uso de **Hooks** en ReactJS y la interacción con una **API REST**.
 * Enlaces: [Front-End-M5-EP0](https://github.com/mespinozacl/Front-End-M5-EP0) [Front-End-M5-EP1](https://github.com/mespinozacl/Front-End-M5-EP1) [Front-End-M5-EP2](https://github.com/mespinozacl/Front-End-M5-EP2) [Front-End-M5-EP3](https://github.com/mespinozacl/Front-End-M5-EP3) [Front-End-M5-EP4](https://github.com/mespinozacl/Front-End-M5-EP4)
 
-6. Desarrollo de aplicaciones Web Progresivas (PWA)
+## 6. Desarrollo de aplicaciones Web Progresivas (PWA)
 * Progreso de Aprendizaje: Se logró crear **aplicaciones web que funcionan offline**, ofreciendo una experiencia de usuario similar a las aplicaciones nativas `PWA`.
 * Enlaces: [Front-End-M6-EP1](https://github.com/mespinozacl/Front-End-M6-EP1) [Front-End-M6-EP2](https://github.com/mespinozacl/Front-End-M6-EP2) [Front-End-M6-EP3](https://github.com/mespinozacl/Front-End-M6-EP3)
 
-7. Fundamentos de desarrollo Agile
+## 7. Fundamentos de desarrollo Agile
 * Progreso de Aprendizaje: Se introdujo el uso de **metodologías ágiles** para gestionar proyectos de desarrollo de manera eficiente. Las actividades realizadas permitieron demuestrar la comprensión y aplicación de conceptos como `Historias de Usuario` (modelos `INVEST` y `SMART`), **estimación ágil**, **priorización** (técnica `Moscow`), **planificación de `Sprints`**, **trabajo en equipo** y **revisión del `Sprint`**, elementos esenciales en el desarrollo ágil de software.
 * Enlaces: Front-End-M7-T1 “Front-End-M7-T1” Front-End-M7-T2 “Front-End-M7-T2” Front-End-M7-T3 “Front-End-M7-T3 - Simulacion”
 
-8. Fundamentos de integración continua
+## 8. Fundamentos de integración continua
 * Progreso de Aprendizaje: Se introdujo la **automatización del proceso de desarrollo y despliegue** utilizando herramientas de **CI/CD** y **Docker**, así como la **gestión de versiones con Git**. Las actividades realizadas permitieron **configurar entornos de desarrollo automatizados**, **implementar flujos de trabajo de colaboración eficientes con Git** y **automatizar procesos de integración y despliegue** utilizando Docker y GitHub Actions.
 * Enlaces: Front-End-M8-EP1 “Front-End-M8-EP1” [Front-End-M8-EP2](https://github.com/mespinozacl/Front-End-M8-EP2)
 
-9. Desarrollo de portafolio de un producto digital
+## 9. Desarrollo de portafolio de un producto digital
 * Progreso de Aprendizaje: Finalmente se abordó la **creación de un portafolio de productos digitales**. Se construyo el presente Portafolio a partir del las actividades desarrolladas en cada módulo, previamente documentadas y ahora presentadas de manera organizada en GitHub.
 * Enlaces: [Front-End-M9-EP1](https://mespinozacl.github.io/Front-End-M9-EP1/)
 

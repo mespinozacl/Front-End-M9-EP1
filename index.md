@@ -18,28 +18,31 @@ A lo largo de los trabajos del curso, se pudo ganar experiencia en el uso de div
 # Progresión del Aprendizaje a lo Largo Proyecto
 
 ## 1. Orientación al perfil y metodología del curso
-> Se estableció un punto de inicio y una ruta a partir del análisis de **la industria de TI**, el **perfil profesional del desarrollador Front-end** y las **competencias técnicas y habilidades personales valoradas**.
-* [_Front-End-M1-EP1 - Discusión y análisis - La Industria TI y el Perfil_](./Front-End-M1-EP1).
+>  Se estableció un punto de inicio y una ruta a partir del análisis de **la industria de TI**, el **perfil profesional del desarrollador Front-end** y las **competencias técnicas y habilidades personales valoradas**.
+* Documentos: [_Front-End-M1-EP1-Documento-Análisis_](./Front-End-M1-EP1).
 
 ## 2. Desarrollo de la interfaz de usuario Web
 > Se comprendieron los fundamentos de `HTML5` y `CSS3` para construir interfaces de usuario visualmente atractivas y funcionales, así como conceptos avanzados como `diseño responsivo`, aplicando esto en la estructuración del contenido con `HTML`, el estilado con `CSS` (organizado bajo la `metodología 7-1` y `BEM`), el uso de un framework CSS como `Bootstrap` y la implementación de la **adaptabilidad a diferentes dispositivos**, competencias clave del desarrollador Front-end.
-* [**Front-End-M2-EP1**](https://github.com/mespinozacl/Front-End-M2-EP1) - [**Front-End-M2-EP2**](https://github.com/mespinozacl/Front-End-M2-EP2) - [**Front-End-M2-EP3**](https://github.com/mespinozacl/Front-End-M2-EP3) [Front-End-M2-EP4](https://github.com/mespinozacl/Front-End-M2-EP4)
+
+* Codigos Fuente: [**Front-End-M2-EP1**](https://github.com/mespinozacl/Front-End-M2-EP1) / [**Front-End-M2-EP2**](https://github.com/mespinozacl/Front-End-M2-EP2) / [**Front-End-M2-EP3**](https://github.com/mespinozacl/Front-End-M2-EP3) / [**Front-End-M2-EP4**](https://github.com/mespinozacl/Front-End-M2-EP4)
 
 ## 3. Programación avanzada en JavaScript
 > Se profundizó en `JavaScript`, abarcando **estructuras de datos**, **algoritmos** y el paradigma de **programación funcional**, aplicando esto en la estructuración con `JSON` y el acceso eficiente a la información mediante `destructuring`, habilidades fundamentales para la manipulación de datos en aplicaciones web.
-[_Front-End-M3-AE1_](./Front-End-M3-AE1) - [**Front-End-M3-AE2**](https://github.com/mespinozacl/Front-End-M3-AE2) - [Front-End-M3-AE3](https://github.com/mespinozacl/Front-End-M3-AE3) - [Front-End-M3-AE4](https://github.com/mespinozacl/Front-End-M3-AE4)  - [Front-End-M3-AE5](https://github.com/Natavica/m03--e5--abpro)
+* Documentos: [_Front-End-M3-AE1_](./Front-End-M3-AE1)
+* Códigos Fuente: [**Front-End-M3-AE2**](https://github.com/mespinozacl/Front-End-M3-AE2) / [**Front-End-M3-AE3**](https://github.com/mespinozacl/Front-End-M3-AE3) / [**Front-End-M3-AE4**](https://github.com/mespinozacl/Front-End-M3-AE4) / [**Front-End-M3-AE5**](https://github.com/Natavica/m03--e5--abpro)
 
 ## 4. Desarrollo de interfaces interactivas con React
-* Progreso de Aprendizaje: A través del uso de `React` se logró construir **aplicaciones interactivas** y **gestionar el estado** (`useState`) en las aplicaciones de manera eficiente. El uso de `ReactJS` y `react-router-dom` permitieron **crear componentes reutilizables** y **navegar entre diferentes vistas**, sentando las bases para la construcción de nuevas interfaces dinámicas.
-* Enlaces: Front-End-M4-AE1 “Front-End-M4-AE1 - Discusión y Análisis de Casos.pdf” [Front-End-M4-EP1](https://github.com/mespinozacl/Front-End-M4-EP1) [Front-End-M4-EP2](https://github.com/mespinozacl/Front-End-M4-EP2) [Front-End-M4-EP3](https://github.com/mespinozacl/Front-End-M4-EP3)
+Progreso de Aprendizaje: A través del uso de `React` se logró construir **aplicaciones interactivas** y **gestionar el estado** (`useState`) en las aplicaciones de manera eficiente. El uso de `ReactJS` y `react-router-dom` permitieron **crear componentes reutilizables** y **navegar entre diferentes vistas**, sentando las bases para la construcción de nuevas interfaces dinámicas.
+* Documentos: Front-End-M4-AE1 “Front-End-M4-AE1 - Discusión y Análisis de Casos.pdf”
+* Códigos Fuente: [Front-End-M4-EP1](https://github.com/mespinozacl/Front-End-M4-EP1) / [Front-End-M4-EP2](https://github.com/mespinozacl/Front-End-M4-EP2) / [Front-End-M4-EP3](https://github.com/mespinozacl/Front-End-M4-EP3)
 
 ## 5. Desarrollo de aplicaciones Front-End con React
-* Progreso de Aprendizaje: Se profundizó en técnicas avanzadas usando React, incluyendo el **consumo de APIs**, **seguridad** y **testing**. Se aplicó esto para **conectar el frontend con datos del backend** utilizando Fetch API, una habilidad crucial para construir aplicaciones web completas. También destacan las ventajas del uso de **Typescript**, el uso de **Hooks** en ReactJS y la interacción con una **API REST**.
-* Enlaces: [Front-End-M5-EP0](https://github.com/mespinozacl/Front-End-M5-EP0) [Front-End-M5-EP1](https://github.com/mespinozacl/Front-End-M5-EP1) [Front-End-M5-EP2](https://github.com/mespinozacl/Front-End-M5-EP2) [Front-End-M5-EP3](https://github.com/mespinozacl/Front-End-M5-EP3) [Front-End-M5-EP4](https://github.com/mespinozacl/Front-End-M5-EP4)
+> Se profundizó en técnicas avanzadas usando React, incluyendo el **consumo de APIs**, **seguridad** y **testing**. Se aplicó esto para **conectar el frontend con datos del backend** utilizando Fetch API, una habilidad crucial para construir aplicaciones web completas. También destacan las ventajas del uso de **Typescript**, el uso de **Hooks** en ReactJS y la interacción con una **API REST**.
+### Códigos Fuente: [Front-End-M5-EP0](https://github.com/mespinozacl/Front-End-M5-EP0) / [Front-End-M5-EP1](https://github.com/mespinozacl/Front-End-M5-EP1) / [Front-End-M5-EP2](https://github.com/mespinozacl/Front-End-M5-EP2) / [Front-End-M5-EP3](https://github.com/mespinozacl/Front-End-M5-EP3) / [Front-End-M5-EP4](https://github.com/mespinozacl/Front-End-M5-EP4)
 
 ## 6. Desarrollo de aplicaciones Web Progresivas (PWA)
-* Progreso de Aprendizaje: Se logró crear **aplicaciones web que funcionan offline**, ofreciendo una experiencia de usuario similar a las aplicaciones nativas `PWA`.
-* Enlaces: [Front-End-M6-EP1](https://github.com/mespinozacl/Front-End-M6-EP1) [Front-End-M6-EP2](https://github.com/mespinozacl/Front-End-M6-EP2) [Front-End-M6-EP3](https://github.com/mespinozacl/Front-End-M6-EP3)
+Se logró crear **una aplicación web que funciona offline**, ofreciendo una experiencia de usuario similar a las aplicaciones nativas `PWA`.
+* Códigos Fuente: [Front-End-M6-EP1](https://github.com/mespinozacl/Front-End-M6-EP1) / [Front-End-M6-EP2](https://github.com/mespinozacl/Front-End-M6-EP2) / [Front-End-M6-EP3](https://github.com/mespinozacl/Front-End-M6-EP3)
 
 ## 7. Fundamentos de desarrollo Agile
 * Progreso de Aprendizaje: Se introdujo el uso de **metodologías ágiles** para gestionar proyectos de desarrollo de manera eficiente. Las actividades realizadas permitieron demuestrar la comprensión y aplicación de conceptos como `Historias de Usuario` (modelos `INVEST` y `SMART`), **estimación ágil**, **priorización** (técnica `Moscow`), **planificación de `Sprints`**, **trabajo en equipo** y **revisión del `Sprint`**, elementos esenciales en el desarrollo ágil de software.
